@@ -1,0 +1,114 @@
+.row {
+    display: block !important;
+    width: 100% !important;
+}
+.col-sm-7,.col-sm-5,.col-sm-6 {
+    max-width: 100% !important;
+}
+.nopadding{
+padding-left:0px !important;
+padding-right:0px !important;
+}
+.norpadding{
+padding-right:0px !important;
+}
+.nolpadding{
+padding-left:0px !important;
+}
+
+div#msg-table_wrapper {
+    margin-top: 50px;
+}
+.modal-footer{
+    clear: both;
+}
+.modal-body {
+    clear: both;
+    float: left;
+    display: block;
+    width: 100%;
+}
+.modal-title{
+display:inline-block !important;
+}
+#popup-msg{
+margin-top: 0px;
+}
+#popup-msg h4{
+    font-weight: bold;
+}
+.preload_area {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    left: 0px;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    display: none;
+    z-index: 99999;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+padding:0px !important;
+}
+.preload_area img {
+    display: block;
+    margin-top: 20% !important;
+    margin: auto;
+}
+button#check_all {
+    margin-right: 20px;
+}
+button#delete-img {
+    position: absolute;
+    right: 15px;
+}
+.control-area {
+    margin-bottom: 15px;
+}
+.quetion-size {
+    margin-bottom: 15px;
+}
+.control-area label {
+    margin: 0px 10px 0px 15px;
+}
+a.btn-refresh {
+    margin-left: 15px;
+}
+.ques-addnew-btn {
+    margin-left: 15px;
+}
+.logo-img {
+    margin-right: 20px;
+}
+.logo-area {
+    padding: 15px 0px 20px;
+}
+.dataTables_processing {
+    background: #008DD2 !important;
+    color: #fff !important;
+    padding: 10px !important;
+}
+#msg-edit select {
+    padding: 2px;
+    line-height: 28px;
+    height: 34px;
+}
+ul.rating li {
+    display: inline-block;
+    margin: 0px 1px;
+}
+ul.rating li img {
+    width:20px;
+}
+ul.rating {
+    margin: 0px 7px 0px;
+}
+.rating-area {
+    margin: 0px 0px 10px 0px;
+}
+.rating span.glyphicon-star{
+color: #000;
+}
+.rating span{
+ font-size:15px;
+}
